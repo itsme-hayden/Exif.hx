@@ -1,6 +1,9 @@
 
 package exif;
 
+import exif.Exif;
+import haxe.io.BytesInput;
+
 class Tag {
 	public var tagCode:Int;
 	public var dataType:Int;
