@@ -63,6 +63,7 @@ class Exif{
 
 			}
 		} catch (any:Dynamic) {
+			trace(any);
 		}
 		
 		return null;
