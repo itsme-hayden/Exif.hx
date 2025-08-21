@@ -3,9 +3,9 @@
   "license": "GPL",
   "tags":["js","flash","exif","image","parser","jpeg","meta","cpp","neko","metadata","utility","cross"],
   "description": "JPEG Exif parser for reading metadata from JPEG images",
-  "contributors": ["martamius", "modjke"],
+  "contributors": ["martamius", "modjke", "itsme-hayden"],
   "releasenote": "js/flash added",
   "version": "1.0.2",
-  "url": "https://github.com/martamius/Exif.hx"
+  "url": "https://github.com/itsme-hayden/Exif.hx"
   
 }
